@@ -15,7 +15,7 @@ In this project the identification of foreground and background is based on the 
 
 first line : number of pixels(N)
 
-next N lines : <X-coordinate> <Y-coordinate> <category-bit>
+next N lines : X-coordinate Y-coordinate category-bit
 
 Category-bit : 1 for foreground, 0 for background
 
